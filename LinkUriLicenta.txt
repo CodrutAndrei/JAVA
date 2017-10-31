@@ -1,0 +1,6 @@
+https://github.com/google/gps-measurement-tools/tree/master/GNSSLogger
+https://www.gsa.europa.eu/newsroom/news/gnss-mobile-apps-using-nougat-access-raw-gnss-measurements
+https://en.wikipedia.org/wiki/GNSS_applications
+http://www.navipedia.net/index.php/Monitoring_Climate_Using_Ground-based_GNSS_Measurements
+https://books.google.at/books?id=vfk_AAAAQBAJ&pg=PA279&lpg=PA279&dq=dual-frequency+integrated+water+vapour+(IWV)+measurements&source=bl&ots=VznwxKiQrF&sig=PJfyw0ioTuZKisNo_2V0PmoSbe0&hl=ro&sa=X&ved=0ahUKEwixutvZ44jVAhWrC5oKHXOrASMQ6AEIVjAG#v=onepage&q=dual-frequency%20integrated%20water%20vapour%20(IWV)%20measurements&f=false
+https://developer.android.com/guide/topics/sensors/gnss.html
